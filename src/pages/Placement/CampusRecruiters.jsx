@@ -146,11 +146,11 @@ const CampusRecruiters = () => {
         }
       `}</style>
 
-      <div className="py-14 bg-gradient-to-b from-slate-50 via-white to-slate-50 overflow-hidden">
+      <div className="py-8 bg-gradient-to-b from-slate-50 via-white to-slate-50 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
           {/* Section Header */}
-          <div className="text-center mb-8">
+          <div className="text-center mb-6">
             <h2 className="text-3xl font-extrabold text-blue-900 sm:text-4xl">
               Our Esteemed Corporate Partners
             </h2>

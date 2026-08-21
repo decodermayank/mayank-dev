@@ -10,9 +10,9 @@ import { pastPlacementReports } from "../../Data/placementData";
 const PlacementStatistics = () => {
   return (
     <SearchableWrapper>
-      <div className="py-12 bg-white">
+      <div className="py-6 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-10">
+          <div className="text-center mb-6">
             <h2 className="text-3xl font-extrabold text-blue-900 sm:text-4xl">
               Past Placement Reports Archive
             </h2>

@@ -25,8 +25,8 @@ function Placement_home() {
         bgTheme={1}
       />
 
-      <div className="bg-gradient-to-b from-slate-50 to-white py-10">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
+      <div className="bg-gradient-to-b from-slate-50 to-white py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6">
           
           {/* Welcome & Director Contact */}
           <div className="bg-white rounded-3xl p-8 lg:p-10 shadow-lg border border-gray-100 flex flex-col lg:flex-row items-center gap-8">
